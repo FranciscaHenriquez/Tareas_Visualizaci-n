@@ -6,3 +6,5 @@ Integrantes:
 - Camila Mena 
 
 Las tareas se encontraran separadas en carpetas, donde en cada una se tendrán los archivos usados para desarrollarlas.
+
+**Packages utilizados en la tarea 1:** *kaleido, pandas, openpyxl, plotly*
