@@ -1,2 +1,2 @@
 # Tareas_Visualización
-Se desarrollaran las tareas de vizualización de datos .
+Se desarrollaran las tareas de visualización de datos .
